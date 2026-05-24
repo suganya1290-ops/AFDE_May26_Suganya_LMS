@@ -1,0 +1,19 @@
+# ── Backend (Python) dependencies ──────────────────────────────────────────
+# Install from the backend/ directory:
+#   cd backend && pip install -r requirements.txt
+
+fastapi==0.111.0
+uvicorn==0.29.0
+sqlalchemy==2.0.30
+pydantic==2.7.1
+python-dotenv==1.0.1
+
+# ── Frontend (Node.js) dependencies ────────────────────────────────────────
+# Install from the frontend/ directory:
+#   cd frontend && npm install
+#
+# Key packages (full list in frontend/package.json):
+#   react@18.2.0
+#   react-dom@18.2.0
+#   axios@1.6.8
+#   react-scripts@5.0.1

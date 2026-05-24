@@ -1,0 +1,52 @@
+book_id,title,author,category,isbn,year_published,publisher
+1,Clean Code,Robert C. Martin,Technology,978-0132350884,2008,Prentice Hall
+2,The Pragmatic Programmer,Andrew Hunt,Technology,978-0201616224,1999,Addison-Wesley
+3,Design Patterns,Gang of Four,Technology,978-0201633610,1994,Addison-Wesley
+4,Python Crash Course,Eric Matthes,Technology,978-1593279288,2019,No Starch Press
+5,You Don't Know JS,Kyle Simpson,Technology,978-1491924464,2015,O'Reilly Media
+6,Learning Python,Mark Lutz,Technology,978-1449355739,2013,O'Reilly Media
+7,JavaScript: The Good Parts,Douglas Crockford,Technology,978-0596517748,2008,O'Reilly Media
+8,Introduction to Algorithms,Thomas Cormen,Technology,978-0262033848,2009,MIT Press
+9,The Art of Computer Programming,Donald Knuth,Technology,978-0201896831,1997,Addison-Wesley
+10,Computer Networks,Andrew Tanenbaum,Technology,978-0132126953,2010,Prentice Hall
+11,To Kill a Mockingbird,Harper Lee,Fiction,978-0061935466,1960,HarperCollins
+12,1984,George Orwell,Fiction,978-0451524935,1949,Penguin Books
+13,The Great Gatsby,F. Scott Fitzgerald,Fiction,978-0743273565,1925,Scribner
+14,Pride and Prejudice,Jane Austen,Fiction,978-0141439518,1813,Penguin Classics
+15,The Catcher in the Rye,J.D. Salinger,Fiction,978-0316769174,1951,Little Brown
+16,Brave New World,Aldous Huxley,Fiction,978-0060850524,1932,HarperCollins
+17,The Alchemist,Paulo Coelho,Fiction,978-0062315007,1988,HarperCollins
+18,Harry Potter and the Sorcerers Stone,J.K. Rowling,Fiction,978-0439708180,1997,Scholastic
+19,The Lord of the Rings,J.R.R. Tolkien,Fiction,978-0544003415,1954,Houghton Mifflin
+20,Fahrenheit 451,Ray Bradbury,Fiction,978-1451673319,1953,Simon and Schuster
+21,A Brief History of Time,Stephen Hawking,Science,978-0553380163,1988,Bantam Books
+22,The Selfish Gene,Richard Dawkins,Science,978-0198788607,1976,Oxford University Press
+23,Cosmos,Carl Sagan,Science,978-0345539434,1980,Ballantine Books
+24,The Origin of Species,Charles Darwin,Science,978-0140432053,1859,Penguin Classics
+25,Sapiens,Yuval Noah Harari,Science,978-0062316097,2011,Harper
+26,The Gene,Siddhartha Mukherjee,Science,978-1476733500,2016,Scribner
+27,Thinking Fast and Slow,Daniel Kahneman,Science,978-0374533557,2011,Farrar Straus and Giroux
+28,The Emperor of All Maladies,Siddhartha Mukherjee,Science,978-1439107959,2010,Scribner
+29,The Rise and Fall of the Third Reich,William L. Shirer,History,978-1451651690,1960,Simon and Schuster
+30,A Peoples History of the United States,Howard Zinn,History,978-0060838652,2003,HarperCollins
+31,The Silk Roads,Peter Frankopan,History,978-1101912379,2015,Knopf
+32,Guns Germs and Steel,Jared Diamond,History,978-0393354324,1997,Norton
+33,The Crusades,Thomas Asbridge,History,978-0060787288,2010,Ecco
+34,The Decline and Fall of the Roman Empire,Edward Gibbon,History,978-0679601401,1776,Everymans Library
+35,Steve Jobs,Walter Isaacson,Biography,978-1451648539,2011,Simon and Schuster
+36,Long Walk to Freedom,Nelson Mandela,Biography,978-0316548182,1994,Little Brown
+37,The Diary of a Young Girl,Anne Frank,Biography,978-0553296983,1947,Bantam Books
+38,Leonardo da Vinci,Walter Isaacson,Biography,978-1501139154,2017,Simon and Schuster
+39,Einstein His Life and Universe,Walter Isaacson,Biography,978-0743264747,2007,Simon and Schuster
+40,The Story of My Experiments with Truth,Mahatma Gandhi,Biography,978-0807059098,1927,Beacon Press
+41,Gone Girl,Gillian Flynn,Mystery,978-0307588371,2012,Crown Publishers
+42,The Girl with the Dragon Tattoo,Stieg Larsson,Mystery,978-0307454546,2005,Knopf
+43,And Then There Were None,Agatha Christie,Mystery,978-0062073488,1939,HarperCollins
+44,The Da Vinci Code,Dan Brown,Mystery,978-0385504201,2003,Doubleday
+45,How to Win Friends and Influence People,Dale Carnegie,Self-Help,978-0671027032,1936,Simon and Schuster
+46,The 7 Habits of Highly Effective People,Stephen Covey,Self-Help,978-1982137274,1989,Simon and Schuster
+47,Atomic Habits,James Clear,Self-Help,978-0735211292,2018,Avery
+48,Think and Grow Rich,Napoleon Hill,Self-Help,978-1585424337,1937,Tarcher
+49,What Is Mathematics,Richard Courant,Mathematics,978-0195105193,1941,Oxford University Press
+50,Godel Escher Bach,Douglas Hofstadter,Mathematics,978-0465026562,1979,Basic Books
+51,Clean Code,Robert C. Martin,Technology,978-0132350884,2008,Prentice Hall
